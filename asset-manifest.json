@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gracewebsite/static/css/main.a5d429b7.css",
-    "main.js": "/gracewebsite/static/js/main.d0f9ef7c.js",
+    "main.css": "/gracewebsite/static/css/main.769ee25a.css",
+    "main.js": "/gracewebsite/static/js/main.58d08637.js",
     "static/media/self-portrait.png": "/gracewebsite/static/media/self-portrait.bc0c039953fbd70e3b0f.png",
     "static/media/img-2.jpg": "/gracewebsite/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-1.jpg": "/gracewebsite/static/media/img-1.53f4843759ebec256cb9.jpg",
     "static/media/img-8.jpg": "/gracewebsite/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/gracewebsite/index.html",
-    "main.a5d429b7.css.map": "/gracewebsite/static/css/main.a5d429b7.css.map",
-    "main.d0f9ef7c.js.map": "/gracewebsite/static/js/main.d0f9ef7c.js.map"
+    "main.769ee25a.css.map": "/gracewebsite/static/css/main.769ee25a.css.map",
+    "main.58d08637.js.map": "/gracewebsite/static/js/main.58d08637.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5d429b7.css",
-    "static/js/main.d0f9ef7c.js"
+    "static/css/main.769ee25a.css",
+    "static/js/main.58d08637.js"
   ]
 }
