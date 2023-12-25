@@ -7,9 +7,9 @@ import Tech from './components/pages/Tech';
 import Art from './components/pages/Art';
 import Business from './components/pages/Business';
 import Inspiring from './components/pages/Inspiring';
-import Resume from './components/pages/Resume';
+import Resume from './components/pages/Inspiring';
 
-function App() {
+function App(){
   return (
     <>
       <Router>

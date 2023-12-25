@@ -67,7 +67,7 @@ function Navbar() {
             </li>
             
 
-            <li>
+            <li className='nav-item'>
               <Link
                 to='/Resume'
                 className='nav-links'
@@ -75,8 +75,8 @@ function Navbar() {
               >
                 Resume
               </Link>
-
-            </li>
+            </li> 
+             
           </ul>
   
         </div>
