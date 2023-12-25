@@ -17,7 +17,7 @@ function Footer() {
           <div class='social-icons'>
             <Link
               class='social-icon-link github'
-              to='https://github.com/gracefei08'
+              to='\github.com/gracefei08'
               target='_blank'
               aria-label='Github'
             >
@@ -26,7 +26,7 @@ function Footer() {
         
             <Link
               class='social-icon-link twitter'
-              to='https://www.linkedin.com/in/grace-fei-144a48212/'
+              to='\www.linkedin.com/in/grace-fei-144a48212/'
               target='_blank'
               aria-label='LinkedIn'
             >
