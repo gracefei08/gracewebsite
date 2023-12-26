@@ -87,12 +87,13 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 90vh;
+    height: 45vh;
     position: absolute;
     top: 80px;
     left: -100%;
     opacity: 1;
     transition: all 0.5s ease;
+    border-radius: 10px;
   }
 
   .nav-menu.active {
@@ -106,7 +107,7 @@
 
   .nav-links {
     text-align: center;
-    padding: 2rem;
+    padding: 0rem;
     width: 100%;
     display: table;
   }
