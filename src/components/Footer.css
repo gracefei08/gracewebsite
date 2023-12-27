@@ -12,12 +12,14 @@
   max-width: 1000px;
   display: flex;
   justify-content: center;
+  
 }
 
 .footer-links > h2 {
   margin-bottom: 12px;
   color: #E6DFD2;
   font-size: 24px;
+  font-family: Georgia ;
 }
 
 /* Social Icons */

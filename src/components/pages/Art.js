@@ -1,6 +1,21 @@
 import React from 'react';
-import '../../App.css';
+import ImageList from '../ImageList';
+import art1 from './art/1.png';
 
-export default function Art() {
-  return <h1 className='Art'>Art</h1>;
+
+
+class App extends React.Component {
+  state = { images: [art1] };
+  
+
+  render() {
+    return (
+      <div className='ui container' style={{ marginTop: '10px' }}>
+
+        <ImageList images={this.state.images} />
+      </div>
+    );
+  }
 }
+
+export default App;

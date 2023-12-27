@@ -1,13 +1,15 @@
 import React from 'react';
 import '../../App.css';
 import Cards from '../Cards';
-import HeroSection from '../HeroSection';
+import Frontpage from '../Frontpage';
+import Intro from '../Intro';
 import Footer from '../Footer';
 
 function Home() {
   return (
     <>
-      <HeroSection />
+      <Frontpage />
+      <Intro />
       <Cards />
       <Footer />
     </>
