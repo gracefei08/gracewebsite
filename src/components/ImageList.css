@@ -1,9 +1,26 @@
-.image-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    grid-auto-rows: 10px;
-  }
-  
-  .image-list img {
-    width: 250px;
-  }
+.gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:rgb(25, 25, 30);
+}
+.gallery .images {
+  gap: 15px;
+  max-width: 95%;
+  margin-top: 40px;
+  columns: 5 340px;
+  list-style: none;
+}
+.gallery .images .card {
+  display: flex;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 14px;
+  border-radius: 4px;
+}
+.gallery .images img {
+  width: 100%;
+  z-index: 2;
+  position: relative;
+}
