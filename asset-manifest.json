@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gracewebsite/static/css/main.408cfb65.css",
-    "main.js": "/gracewebsite/static/js/main.cb1431ec.js",
+    "main.css": "/gracewebsite/static/css/main.8f865cc1.css",
+    "main.js": "/gracewebsite/static/js/main.c4560a5b.js",
     "static/media/5.png": "/gracewebsite/static/media/5.8bc5d1b65b4f9fb05ca0.png",
     "static/media/RA.png": "/gracewebsite/static/media/RA.8bc5d1b65b4f9fb05ca0.png",
     "static/media/7.jpg": "/gracewebsite/static/media/7.18ff10cc901085d34adb.jpg",
@@ -9,22 +9,32 @@
     "static/media/self-portrait.png": "/gracewebsite/static/media/self-portrait.bc0c039953fbd70e3b0f.png",
     "static/media/8.JPG": "/gracewebsite/static/media/8.0047b6d6cfa45280f539.JPG",
     "static/media/img-2.jpg": "/gracewebsite/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/16.jpg": "/gracewebsite/static/media/16.74fffd2de71935a15355.jpg",
+    "static/media/15.jpg": "/gracewebsite/static/media/15.df0c1980dfe2200471b1.jpg",
     "static/media/9.jpg": "/gracewebsite/static/media/9.df959783642f5a60fffd.jpg",
     "static/media/3.png": "/gracewebsite/static/media/3.19763a4721c590f7c8b9.png",
     "static/media/6.png": "/gracewebsite/static/media/6.e15bf9a57cc1663e3239.png",
+    "static/media/19.jpg": "/gracewebsite/static/media/19.87763bb1e85e12dd87a6.jpg",
     "static/media/2.jpg": "/gracewebsite/static/media/2.cb6fcc0a71b432fbbffa.jpg",
     "static/media/1.png": "/gracewebsite/static/media/1.0c03814e26907adc162b.png",
+    "static/media/20.png": "/gracewebsite/static/media/20.280162f86f4a86782246.png",
     "static/media/img-1.jpg": "/gracewebsite/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/13.jpg": "/gracewebsite/static/media/13.2a36629c81ee92892321.jpg",
+    "static/media/12.JPG": "/gracewebsite/static/media/12.d924e59b28c33de69dad.JPG",
+    "static/media/11.jpg": "/gracewebsite/static/media/11.628777cc9adb08dbc97d.jpg",
+    "static/media/18.jpg": "/gracewebsite/static/media/18.e89a3fcb4a4a1d4d657a.jpg",
     "static/media/oct-both.png": "/gracewebsite/static/media/oct-both.64b35e9e13b25c90855e.png",
     "static/media/10.jpg": "/gracewebsite/static/media/10.94959133c5992acf21fe.jpg",
     "static/media/img-8.jpg": "/gracewebsite/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/14.jpg": "/gracewebsite/static/media/14.3f00228e37c9fcde768c.jpg",
+    "static/media/17.jpg": "/gracewebsite/static/media/17.ca6b219e8592a9766435.jpg",
     "static/media/bus.png": "/gracewebsite/static/media/bus.a775dde0e26be0a1581d.png",
     "index.html": "/gracewebsite/index.html",
-    "main.408cfb65.css.map": "/gracewebsite/static/css/main.408cfb65.css.map",
-    "main.cb1431ec.js.map": "/gracewebsite/static/js/main.cb1431ec.js.map"
+    "main.8f865cc1.css.map": "/gracewebsite/static/css/main.8f865cc1.css.map",
+    "main.c4560a5b.js.map": "/gracewebsite/static/js/main.c4560a5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.408cfb65.css",
-    "static/js/main.cb1431ec.js"
+    "static/css/main.8f865cc1.css",
+    "static/js/main.c4560a5b.js"
   ]
 }
