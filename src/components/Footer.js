@@ -14,23 +14,23 @@ function Footer() {
         <div class='social-media-wrap'>
         
           <div class='social-icons'>
-            <Link
+            <footer
               class='social-icon-link github'
-              to='\github.com/gracefei08'
+              to ='https://github.com/gracefei08'
               target='_blank'
               aria-label='Github'
             >
               <i class='fab fa-github' />
-            </Link>
+            </footer>
         
-            <Link
+            <footer
               class='social-icon-link twitter'
-              to='\www.linkedin.com/in/grace-fei-144a48212/'
+              href='https://www.linkedin.com/in/grace-fei-144a48212/'
               target='_blank'
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
-            </Link>
+            </footer>
 
           </div>
         </div>

@@ -19,23 +19,30 @@ function frontimage() {
         </div>
         <section className="gallery">
             <ul className="images">
-            <li className="card"> <img src={a6} alt = "art1"/></li>
-            <li className="card"> <img src={a21} alt = "art1"/></li>
-            <li className="card"> <img src={a14} alt = "art1"/></li>
-            <li className="card"> <img src={a16} alt = "art1"/></li>
+            <li className="card"> <img src={a6} /></li>
+            <li className="card"> <img src={a21} /></li>
+            <li className="card"> <img src={a14} /></li>
+            <li className="card"> <img src={a16} /></li>
         
               
         </ul>
+
+    
+
         </section>
 
-        <li className='button'>
+        <div className="button-container">
+        <button className='button'>
               <Link
                 to='/Art'
                 className='button-links'
               >
                 View Portfolio 
               </Link>
-            </li>
+            </button>
+            </div>
+
+
         </>
         );
 }

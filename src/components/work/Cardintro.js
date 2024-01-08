@@ -1,14 +1,14 @@
 import React from 'react';
-import './Cards.css';
+import './Cardintro.css';
 import CardItem from './CardItem';
 import oct from './images/oct-both.png'
 import bus from './images/bus.png'
 import design from './images/RA.png'
 import { Link } from 'react-router-dom';
 
-function Cards() {
+function Cardintro() {
   return (
-
+    <>
     <div className='cards'>
       
       <div className='cards__container'>
@@ -43,8 +43,18 @@ function Cards() {
         </div>
       </div>
     </div>
- 
+      <div className="button-container">
+      <button className='button'>
+            <Link
+              to='/Work'
+              className='button-links'
+            >
+              View All Work 
+            </Link>
+          </button>
+          </div>
+          </>
   );
 }
 
-export default Cards;
+export default Cardintro;
