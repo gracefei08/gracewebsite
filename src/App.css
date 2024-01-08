@@ -16,23 +16,6 @@
   font-size: 3rem;
 }
 
-.Tech {
-  background-image: url('../src/components/images/img-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.products {
-  background-image: url('../src/components/images/img-1.jpg');
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
 
 
 

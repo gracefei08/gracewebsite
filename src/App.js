@@ -14,10 +14,10 @@ function App(){
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Home} />
+          <Route path='/gracewebsite/' exact component={Home} />
           <Route path='/Work' component={Work} />
           <Route path='/Art' component={Art} />
-          <Route path='/Inspiring' component={Inspiring} />
+         <Route path='/Inspiring' component={Inspiring} />
           <Route path='/Resume' component={Resume} />
         </Switch>
       </Router>

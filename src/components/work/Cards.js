@@ -16,7 +16,7 @@ function Cards() {
               src={oct}
               title = 'System intergrater intern'
               text='Created a program with Python (NumPy) and LabVIEW that intergrated OCT imaging system with APT motor software. '
-              path='/Tech'
+              path='/Work'
             />
 
           </ul>
@@ -25,7 +25,7 @@ function Cards() {
               src={bus}
               title = 'Founder of The3DMachine'
               text='3D modeled, printed, and hand painted with over 1100+ sales, promoting the intersection of STEM and art.'
-              path='/Tech'
+              path='/Work'
             />
           </ul>
           <ul className='cards__items'>
@@ -34,7 +34,7 @@ function Cards() {
               src={design}
               title = 'Research Assisant'
               text='Using Blender and Python (PyTorch) to generate concept figures for joint visual and acoustic processing in AR/VR scenarios'
-              path='/Tech'
+              path='/Work'
             />
 
           </ul>

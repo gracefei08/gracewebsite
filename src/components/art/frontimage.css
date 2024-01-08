@@ -1,0 +1,70 @@
+.gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:rgb(25, 25, 30);
+  }
+  .gallery .images {
+    gap: 15px;
+    max-width: 50%;
+    margin-top: 40px;
+    columns: 3 280px;
+    list-style: none;
+  }
+  .gallery .images .card {
+    display: flex;
+    cursor: pointer;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 14px;
+    border-radius: 4px;
+  }
+  .gallery .images img {
+    width: 100%;
+    z-index: 2;
+    position: relative;
+  }
+  .Art-container {
+  
+    background: rgb(25, 25, 30);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
+
+  .Art-container>h2 {
+    margin-top:180px;
+    margin-bottom: 12px;
+    color: #E6DFD2;
+    font-size: 42px;
+    font-family: Georgia ;
+  }
+  
+  .button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  .button-links {
+    color: #E6DFD2;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem .5rem;
+    height: 100%;
+    font-family: Georgia ;
+  }
+  
+  .button-links:hover {
+    color: #8F8A81;
+    transition: all 0.2s easeS-out;
+  }

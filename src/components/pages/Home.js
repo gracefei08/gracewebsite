@@ -1,9 +1,10 @@
 import React from 'react';
 import '../../App.css';
-import Cards from '../Cards';
+import Cards from '../work/Cards';
 import Frontpage from '../Frontpage';
 import Intro from '../Intro';
 import Footer from '../Footer';
+import FrontImage from '../art/frontimage';
 
 function Home() {
   return (
@@ -11,8 +12,11 @@ function Home() {
       <Frontpage />
       <Intro />
       <Cards />
+      <FrontImage/>
       <Footer />
+
     </>
+
   );
 }
 

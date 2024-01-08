@@ -8,3 +8,29 @@
     align-items: center;
   
   }
+  .Intro-container>h1 {
+  
+    margin-bottom: 24px;
+    color: #E6DFD2;
+    font-size: 64px;
+    font-family: Georgia ;
+  }
+
+  .Intro-container>p {
+  
+    margin-bottom: 12px;
+    color: #E6DFD2;
+    font-size: 24px;
+    font-family: Georgia ;
+  }
+  .Intro-container>h2 {
+    margin-top:180px;
+    margin-bottom: 12px;
+    color: #E6DFD2;
+    font-size: 42px;
+    font-family: Georgia ;
+  }
+  
+  
+  
+  

@@ -1,0 +1,22 @@
+.Artdesc-container {
+    background-color:rgb(25, 25, 30);
+    padding: 2rem 2rem 2rem 2rem;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .Artdesc-container > p {
+    margin-bottom: 12px;
+    color: #E6DFD2;
+    font-size: 24px;
+    font-family: Georgia ;
+  }
+  .Artdesc-container > h1 {
+    margin-top:24px;
+    margin-bottom: 24px;
+    color: #E6DFD2;
+    font-size: 42px;
+    font-family: Georgia ;
+  }
