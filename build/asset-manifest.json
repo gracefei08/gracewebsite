@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gracewebsite/static/css/main.963e76d6.css",
-    "main.js": "/gracewebsite/static/js/main.0b70afed.js",
+    "main.css": "/gracewebsite/static/css/main.3b2cd185.css",
+    "main.js": "/gracewebsite/static/js/main.c7cfa5f0.js",
     "static/media/5.png": "/gracewebsite/static/media/5.8bc5d1b65b4f9fb05ca0.png",
     "static/media/RA.png": "/gracewebsite/static/media/RA.8bc5d1b65b4f9fb05ca0.png",
     "static/media/7.jpg": "/gracewebsite/static/media/7.18ff10cc901085d34adb.jpg",
@@ -28,11 +28,11 @@
     "static/media/17.jpg": "/gracewebsite/static/media/17.ca6b219e8592a9766435.jpg",
     "static/media/bus.png": "/gracewebsite/static/media/bus.a775dde0e26be0a1581d.png",
     "index.html": "/gracewebsite/index.html",
-    "main.963e76d6.css.map": "/gracewebsite/static/css/main.963e76d6.css.map",
-    "main.0b70afed.js.map": "/gracewebsite/static/js/main.0b70afed.js.map"
+    "main.3b2cd185.css.map": "/gracewebsite/static/css/main.3b2cd185.css.map",
+    "main.c7cfa5f0.js.map": "/gracewebsite/static/js/main.c7cfa5f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.963e76d6.css",
-    "static/js/main.0b70afed.js"
+    "static/css/main.3b2cd185.css",
+    "static/js/main.c7cfa5f0.js"
   ]
 }
