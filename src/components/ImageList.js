@@ -34,24 +34,20 @@ function art() {
             <li className="card"> <img src={a4} alt = "art1"/></li>
             <li className="card"> <img src={a5} alt = "art1"/></li>
             <li className="card"> <img src={a6} alt = "art1"/></li>
-            <li className="card"> <img src={a7}  lt = "art1"/></li>
-        
-            <li className="card"> <img src={a8}/></li>
-            <li className="card"> <img src={a9}/></li>
-            <li className="card"> <img src={a10}/></li>
-            <li className="card"> <img src={a11}/></li>
-            <li className="card"> <img src={a12}/></li>
-            <li className="card"> <img src={a13}/></li>
-            <li className="card"> <img src={a14}/></li>
-         
-     
-    
-            <li className="card"> <img src={a15}/></li>
-            <li className="card"> <img src={a16}/></li>
-            <li className="card"> <img src={a17}/></li>
-            <li className="card"> <img src={a18}/></li>
-            <li className="card"> <img src={a19}/></li>
-            <li className="card"> <img src={a20}/></li>
+            <li className="card"> <img src={a7} alt = "art1"/></li>
+            <li className="card"> <img src={a8} alt = "art1"/></li>
+            <li className="card"> <img src={a9} alt = "art1"/></li>
+            <li className="card"> <img src={a10} alt = "art1"/></li>
+            <li className="card"> <img src={a11} alt = "art1"/></li>
+            <li className="card"> <img src={a12} alt = "art1"/></li>
+            <li className="card"> <img src={a13} alt = "art1"/></li>
+            <li className="card"> <img src={a14} alt = "art1"/></li>
+            <li className="card"> <img src={a15} alt = "art1"/></li>
+            <li className="card"> <img src={a16} alt = "art1"/></li>
+            <li className="card"> <img src={a17} alt = "art1"/></li>
+            <li className="card"> <img src={a18} alt = "art1"/></li>
+            <li className="card"> <img src={a19} alt = "art1"/></li>
+            <li className="card"> <img src={a20} alt = "art1"/></li>
               
         </ul>
         </section>
