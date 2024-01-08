@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gracewebsite/static/css/main.badefd9d.css",
-    "main.js": "/gracewebsite/static/js/main.a1ca23e7.js",
+    "main.js": "/gracewebsite/static/js/main.d8bff857.js",
     "static/media/5.png": "/gracewebsite/static/media/5.8bc5d1b65b4f9fb05ca0.png",
     "static/media/RA.png": "/gracewebsite/static/media/RA.8bc5d1b65b4f9fb05ca0.png",
     "static/media/7.jpg": "/gracewebsite/static/media/7.18ff10cc901085d34adb.jpg",
@@ -30,10 +30,10 @@
     "static/media/bus.png": "/gracewebsite/static/media/bus.a775dde0e26be0a1581d.png",
     "index.html": "/gracewebsite/index.html",
     "main.badefd9d.css.map": "/gracewebsite/static/css/main.badefd9d.css.map",
-    "main.a1ca23e7.js.map": "/gracewebsite/static/js/main.a1ca23e7.js.map"
+    "main.d8bff857.js.map": "/gracewebsite/static/js/main.d8bff857.js.map"
   },
   "entrypoints": [
     "static/css/main.badefd9d.css",
-    "static/js/main.a1ca23e7.js"
+    "static/js/main.d8bff857.js"
   ]
 }
