@@ -131,33 +131,24 @@
     line-height: 24px;
   }
   
-  .button-container {
-    background: rgb(25, 25, 30);
-    padding: 40px 380px;
-    align-items: left;
-  
-  }
+
   .button {
     border-color: #E6DFD2;
     border-radius: 5px;
-    background-color:rgb(25, 25, 30);
-    color:rgb(25, 25, 30);
-    padding: 8px 12px;
-    text-align: center;
-    font-size: 24px;
-  }
-  
-  .button-links {
     color:#E6DFD2; 
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    padding: 0.3rem .3rem;
-    height: 100%;
+    padding-left:  12px;
+    padding-right:  12px;
+    padding-top:  8px;
+    padding-bottom:  8px;
+    text-align: center;
     font-family: Georgia ;
+    text-decoration: none;
+    font-size: 24px;
+    display: inline-block;
   }
   
-  .button-links:hover {
+  
+  .button:hover {
     color: #8F8A81;
     transition: all 0.2s easeS-out;
   }
@@ -177,6 +168,13 @@
   @media only screen and (max-width: 1024px) {
     .cards__item {
       margin-bottom: 1rem;
+    }
+
+    
+  }
+  @media only screen and (min-width: 600px) and (max-width: 992px) {
+   .button {
+      width: 210px;
     }
   }
   

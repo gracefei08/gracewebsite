@@ -2,6 +2,7 @@ import React from 'react';
 import './Footer.css';
 import { Link } from 'react-router-dom';
 
+
 function Footer() {
   return (
     <div className='footer-container'>
@@ -14,23 +15,25 @@ function Footer() {
         <div class='social-media-wrap'>
         
           <div class='social-icons'>
-            <footer
-              class='social-icon-link github'
-              to ='https://github.com/gracefei08'
+
+            <a href ='https://github.com/gracefei08'
+            className='social-icon-link github'
               target='_blank'
               aria-label='Github'
             >
               <i class='fab fa-github' />
-            </footer>
+            </a>
         
-            <footer
-              class='social-icon-link twitter'
-              href='https://www.linkedin.com/in/grace-fei-144a48212/'
+            <a href='https://www.linkedin.com/in/grace-fei-144a48212/'
+             className='social-icon-link twitter'
               target='_blank'
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
-            </footer>
+            </a>
+
+      
+
 
           </div>
         </div>

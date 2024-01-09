@@ -1,7 +1,5 @@
 import React from 'react';
 import './workdesc.css';
-import { Link } from 'react-router-dom';
-
 function Workdesc() {
   return (
     <div className='Workdesc-container'>

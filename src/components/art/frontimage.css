@@ -44,11 +44,13 @@
     font-family: Georgia ;
   }
   .button-container {
-
+    justify-content: center;
+    align-items: center;
     background: rgb(25, 25, 30);
-    padding: 40px 380px;
-    align-items: left;
+    align-items: center;
+    display: flex;
   
+ 
   }
   .button {
     border-color: #E6DFD2;
@@ -56,7 +58,7 @@
 
     background-color:rgb(25, 25, 30);
     color:rgb(25, 25, 30);
-    padding: 8px 12px;
+ 
     text-align: center;
     font-size: 24px;
    
@@ -78,3 +80,15 @@
     color: #8F8A81;
     transition: all 0.2s easeS-out;
   }
+ 
+  
+  @media only screen and (min-width: 500px) and (max-width: 992px) {
+
+ 
+  
+    .button {
+      width: 50%;
+    }
+  
+
+   }

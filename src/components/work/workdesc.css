@@ -20,3 +20,16 @@
     font-size: 42px;
     font-family: Georgia ;
   }
+  @media only screen and (max-width: 950px) {
+    .Workdesc-container {
+       padding-left: 8%;
+       padding-right: 8%;
+    }
+ }
+ 
+ @media only screen and (max-width: 600px) {
+    .Workdesc-container {
+       padding-left: 5%;
+       padding-right: 5%;
+    }
+ }

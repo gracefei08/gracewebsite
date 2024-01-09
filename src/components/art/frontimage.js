@@ -35,7 +35,7 @@ function frontimage() {
         <button className='button'>
               <Link
                 to='/Art'
-                className='button-links'
+                className='button'
               >
                 View Portfolio 
               </Link>

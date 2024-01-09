@@ -47,7 +47,7 @@ function Cardintro() {
       <button className='button'>
             <Link
               to='/Work'
-              className='button-links'
+              className='button'
             >
               View All Work 
             </Link>

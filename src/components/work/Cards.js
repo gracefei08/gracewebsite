@@ -4,7 +4,6 @@ import CardItem from './CardItem';
 import oct from './images/oct-both.png'
 import bus from './images/bus.png'
 import design from './images/RA.png'
-import { Link } from 'react-router-dom';
 
 function Cards() {
   return (
