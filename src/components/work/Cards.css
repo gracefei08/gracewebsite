@@ -56,7 +56,7 @@ h5 {
   flex: 1;
   margin: .5rem .5rem;
   border-radius: 5px;
-  
+  padding-top:10%;
 }
 
 .cards__item__link {
@@ -100,7 +100,7 @@ h5 {
 
 .cards__item__img {
   position: absolute;
-  top: 0;
+  top: 0%;
   right: 0;
   bottom: 0;
   left: 0;
@@ -116,7 +116,8 @@ h5 {
 
 
 .cards__item__info {
-  padding: 20px 30px 30px;
+  padding-bottom: 0%;
+  padding-top: 5%;
 }
 
 .cards__item__text {
@@ -131,6 +132,31 @@ h5 {
   line-height: 24px;
 }
 
+.button {
+  border-color: #E6DFD2;
+  border-radius: 5px;
+ 
+  padding-left:  12px;
+  padding-right:  12px;
+  padding-top:  8px;
+  padding-bottom:  8px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  display: inline-block;
+}
+.a > p {
+  color:#E6DFD2; 
+  font-family: Georgia ;
+  text-decoration: none;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.a >p :hover {
+  color: #8F8A81;
+  transition: all 0.2s easeS-out;
+}
 
 @media only screen and (min-width: 1200px) {
   .content__blog__container {
@@ -147,5 +173,12 @@ h5 {
 @media only screen and (max-width: 1024px) {
   .cards__item {
     margin-bottom: 1rem;
+  }
+
+  
+}
+@media only screen and (min-width: 300px) and (max-width: 992px) {
+ .button {
+    width: 125px;
   }
 }

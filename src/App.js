@@ -14,7 +14,7 @@ function App(){
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/gracewebsite/' exact component={Home} />
+          <Route path='/personal-website/' exact component={Home} />
           <Route path='/Work' component={Work} />
           <Route path='/Art' component={Art} />
          <Route path='/Inspiring' component={Inspiring} />

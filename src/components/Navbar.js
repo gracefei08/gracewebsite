@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
+import Pdf from './GraceFeiR.pdf';
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -13,7 +14,7 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           
-          <Link to='/gracewebsite/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/personal-website/' className='navbar-logo' onClick={closeMobileMenu}>
             Grace Fei
           </Link>
 
@@ -38,7 +39,10 @@ function Navbar() {
                 Art
               </Link>
             </li>
-
+            <div className = "nav-item">
+          <a className='nav-links' href = {Pdf} target = "_blank">Resume</a>
+          
+            </div>
 
            
              

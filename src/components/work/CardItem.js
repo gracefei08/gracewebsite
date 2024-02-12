@@ -12,6 +12,7 @@ function CardItem(props) {
               alt='Travel Image'
               src={props.src}
             />
+           
           </figure>
           <div className='cards__item__info'>
           <h4 className='cards__item__title'>{props.title}</h4>

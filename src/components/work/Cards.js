@@ -5,6 +5,7 @@ import oct from './images/oct-both.png'
 import bus from './images/bus.png'
 import design from './images/RA.png'
 
+
 function Cards() {
   return (
 
@@ -14,9 +15,11 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src={oct}
+           src={oct}
+         
               title = 'System intergrater intern'
-              text='Created a program with Python (NumPy) and LabVIEW that intergrated OCT imaging system with APT motor software. '
+              text='Created a program with Python (NumPy) and LabVIEW that intergrated OCT imaging system with APT motor software. 
+              The user inputs 2 wells in a well plate, and the program generates coordinates taking into account the rotational shifting, completely automates the scanning process'
               path='/Work'
             />
 
@@ -24,11 +27,24 @@ function Cards() {
           <ul className='cards__items'>
           <CardItem
               src={bus}
+      
               title = 'Founder of The3DMachine'
-              text='3D modeled, printed, and hand painted with over 1100+ sales, promoting the intersection of STEM and art.'
-              path='/Work'
+              text='Founded a business to combine my passion for STEM and art by  3D modeling with Fusion360, 3D printing, and painting, gaining  over 1100+ sales and an average 5-star review.'
+              path='/Work'              
             />
+
           </ul>
+          <div className="button-container">
+              <button className='button'>
+                <a className= 'button' href ='https://www.etsy.com/shop/The3DMachine?ref=seller-platform-mcnav'
+            
+                target='_blank'
+                >
+                <p>View Shop</p>
+                </a>
+              </button>
+          </div>
+
           <ul className='cards__items'>
           
           <CardItem
