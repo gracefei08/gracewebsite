@@ -14,7 +14,7 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           
-          <Link to='/personal-website/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/gracewebsite/' className='navbar-logo' onClick={closeMobileMenu}>
             Grace Fei
           </Link>
 
