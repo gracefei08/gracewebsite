@@ -3,7 +3,7 @@ import './Cards.css';
 import CardItem from './CardItem';
 import oct from './images/oct-both.png'
 import bus from './images/bus.png'
-import design from './images/RA.png'
+import design from './images/Research_paper_author.png'
 
 
 function Cards() {
@@ -48,10 +48,10 @@ function Cards() {
           <ul className='cards__items'>
           
           <CardItem
-              src={design}
-              title = 'Research Assisant'
-              text='Using Blender and Python (PyTorch) to generate concept figures for joint visual and acoustic processing in AR/VR scenarios'
-              path='/Work'
+          src={design}
+          title = 'Research Paper Co-Author'
+          text='address the acoustic field synthesis of the binaural audio with a hybrid model incorporating acoustic synthesis blocks and a Head-Related Transfer Function (HRTF) module to learn the transfer function that represents the binaural audio effects'
+          path='/Work'
             />
 
           </ul>
