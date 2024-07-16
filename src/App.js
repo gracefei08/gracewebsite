@@ -5,7 +5,6 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Work from './components/pages/Work';
 import Art from './components/pages/Art';
-import Inspiring from './components/pages/Inspiring';
 import Resume from './components/pages/Inspiring';
 
 function App(){
@@ -17,7 +16,6 @@ function App(){
           <Route path='/gracewebsite/' exact component={Home} />
           <Route path='/Work' component={Work} />
           <Route path='/Art' component={Art} />
-         <Route path='/Inspiring' component={Inspiring} />
           <Route path='/Resume' component={Resume} />
         </Switch>
       </Router>
